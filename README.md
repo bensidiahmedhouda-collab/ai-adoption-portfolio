@@ -21,6 +21,12 @@ A fully automated n8n workflow that runs every morning at 9am, fetches live job 
 
 **To import:** Open n8n → New Workflow → Import from file → select `workflow/job_finder_workflow.json`
 
+**Workflow:**
+![n8n workflow](assets/workflow_screenshot.png)
+
+**Sample Gmail output:**
+![Gmail output](assets/email_output.png)
+
 ---
 
 ### 2. LangChain Pandas Agent
