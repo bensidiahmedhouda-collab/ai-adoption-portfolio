@@ -35,7 +35,7 @@ A LangChain agent that answers natural language questions about a retail dataset
 ## Setup
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-adoption-portfolio.git
+git clone https://github.com/bensidiahmedhouda-collab/ai-adoption-portfolio.git
 cd ai-adoption-portfolio
 
 pip install langchain langchain-groq langchain-anthropic langchain-experimental pandas openpyxl python-dotenv
